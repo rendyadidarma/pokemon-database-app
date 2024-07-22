@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MockApp</string>
+    <string name="pokemon">Pokemon Database</string>
+    <string name="abilities">Abilities</string>
+    <string name="base">Base Stats</string>
+    <string name="fetching_pokemon_data">Accessing Pokemon Database…</string>
+    <string name="no_items_found">No items found</string>
+</resources>
